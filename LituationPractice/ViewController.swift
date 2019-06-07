@@ -13,11 +13,6 @@ class ViewController: UIViewController {
     let justin = "Justin"
     let gigi = "gigi"
     let decent = "fake decent"
-    struct gdsVsbds {
-        gd = 1
-        bd = 2
-        renegade = 3
-    }
         
     }
     
