@@ -13,7 +13,12 @@ class ViewController: UIViewController {
     let justin = "Justin"
     let gigi = "gigi"
     let decent = "fake decent"
-    
+    let ofn = "on Foe Nem Grave Shorty...."
+    struct ofn{
+        var ofn = 2
+        var lituation = 1
+        
+    }
     
     
     //Something NEw
