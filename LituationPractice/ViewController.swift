@@ -10,7 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
 //Github Practice my guy
-let decent = "fake decent"
+    let justin = "Justin"
+    let gigi = "gigi"
+    let decent = "fake decent"
+    
     
     
     //Something NEw
